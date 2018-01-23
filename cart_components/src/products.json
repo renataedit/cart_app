@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "My First Product",
+    "type": "virtual",
+    "description": "This is the description for my very first product.",
+    "price": 20,
+    "amount": 2,
+    "a_type": "l",
+    "product_image": "/src/images/1.jpg",
+    "enabled": true
+  },
+  {
+    "id": 2,
+    "name": "My 2nd Product",
+    "type": "virtual",
+    "description": "My 2nd product description.",
+    "price": 145,
+    "amount": 50,
+    "a_type": "ml",
+    "product_image": "/src/images/2.jpg",
+    "enabled": true
+  },
+  {
+    "id": 3,
+    "name": "My 3rd Product",
+    "type": "virtual",
+    "description": "Lorem ipsum dolor sit amet...",
+    "price": 56,
+    "amount": 500,
+    "a_type": "g",
+    "product_image": "/src/images/3.jpg",
+    "enabled": true
+  },
+  {
+    "id": 4,
+    "name": "My 4th Product",
+    "type": "virtual",
+    "description": "4th product.",
+    "price": 88,
+    "amount": 1,
+    "a_type": "kg",
+    "product_image": "/src/images/4.jpg",
+    "enabled": true
+  }
+]
